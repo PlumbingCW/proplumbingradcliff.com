@@ -327,4 +327,6 @@ th,td{padding:11px 12px}
 .hero-home .hero-bg{object-position:72% center}
 @media (max-width:900px){.hero-home{min-height:0}.hero-home:before{background:linear-gradient(180deg,rgba(18,29,52,.9) 0%,rgba(18,29,52,.78) 100%)}.hero-home .hero-bg{object-position:70% center}}
 
+.srclist{margin:0 0 12px;padding-left:20px}.srclist li{margin:0 0 6px;overflow-wrap:anywhere}.nbareas{grid-template-columns:repeat(3,1fr)}@media(max-width:900px){.nbareas{grid-template-columns:1fr}}
+
 .narrow{max-width:880px;margin:0 auto}.accordion.mt{margin-top:16px}
